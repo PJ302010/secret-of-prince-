@@ -1,0 +1,28 @@
+#btn111{
+height: 250px;
+    width: 250px;
+    background-image: url(https://internetlifestylehub.com/wp-content/uploads/2020/08/mitesh.jpg);
+    text-align: end;
+        
+}
+#btn111:hover{
+cursor: pointer;
+    background-image: url(https://www.miteshkhatri.com/wp-content/uploads/2018/08/MiteshKhatri.jpg)
+    color: white;
+}
+#bob:hover{
+    cursor: pointer;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5deda52e3ab4a76a02de794c/1581547398048-LWN2GPIB15DHAN5IKMEF/Bob+Proctor+IMG_6124_edit-2.jpg?format=1000w)
+}
+#bob{
+    width: 750;
+    height: 750;
+    background-image: url(https://embedwistia-a.akamaihd.net/deliveries/06f00e954a570dfaf5285f4a209901a4.webp?image_crop_resized=1280x720)
+}
+#btn law:hover{
+cursor: pointer;
+}
+#btn law{
+    height: 576;
+    width: 576;
+}
